@@ -1,3 +1,6 @@
 import random
+
 for i in range(20):
-print('*' *random.randint81,30))
+    quantidade = random.randint(8, 30)
+    print('*' * quantidade)
+
